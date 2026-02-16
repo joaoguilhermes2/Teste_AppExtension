@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "App de Teste",
+  "description": "Extensão simples para testar entrada de nome.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "App de Teste",
+    "default_popup": "popup.html"
+  }
+}
